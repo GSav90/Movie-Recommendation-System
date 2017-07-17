@@ -1,3 +1,10 @@
+#train_test_split- Cross validation to avoid overfitting
+#Dataprep- Data pre processing
+#genUV- U,V matrix generation using SGD
+#predict_ratings- Rating predictions for every user movie combination
+#calc_rmse- Calculating rmse using test data
+
+
 import pandas as pd
 import numpy as np
 import os
